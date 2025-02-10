@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Sailor
-Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: SamOS Website Template  
+Template URL: https://samos.uz 
+Author: Samandar ibn Otabek  
+License: Commercial   
